@@ -1,6 +1,5 @@
-changelog updated 9th July 2020
 
-# Current meeting cadence
+# meeting cadence @ 9th July 2020
 ### Daily standup, 4.40pm
 A chillout-lounge for the team to mark the end of the workday with
 
